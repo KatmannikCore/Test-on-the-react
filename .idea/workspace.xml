@@ -2,61 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3741a09c-6b49-4d79-b9df-333d3c2c0810" name="Default Changelist" comment="First">
-      <change afterPath="$PROJECT_DIR$/my-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/.idea/my-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/axios/axios-quiz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/ActiveQuiz/ActiveQuiz.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/ActiveQuiz/ActiveQuiz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/ActiveQuiz/AnswersList/AnswerItem/AnswerItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/ActiveQuiz/AnswersList/AnswerItem/AnswerItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/ActiveQuiz/AnswersList/AnswersList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/ActiveQuiz/AnswersList/AnswersList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/FinishedQuiz/FinishedQuiz.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/FinishedQuiz/FinishedQuiz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Navigation/Drawer/Drawer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Navigation/Drawer/Drawer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Navigation/MenuToggle/MenuToggle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/Navigation/MenuToggle/MenuToggle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/UI/Backdrop/Backdrop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/UI/Backdrop/Backdrop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/UI/Button/Button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/UI/Button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/UI/Input/Input.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/UI/Input/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/UI/Loader/Laoder.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/UI/Loader/Loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/UI/Select/Select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/components/UI/Select/Select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/containers/Auth/Auth.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/containers/Auth/Auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/containers/Quiz/Quiz.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/containers/Quiz/Quiz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/containers/QuizCreator/QuizCreator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/containers/QuizCreator/QuizCreator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/containers/QuizList/QuizList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/containers/QuizList/QuizList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/form/formFramework.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/hoc/Layout/Layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/hoc/Layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/registerServiceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,18 +18,7 @@
     <favorites_list name="Test-on-the-react" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -102,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -157,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641375372175</updated>
       <workItem from="1641375375208" duration="800000" />
+      <workItem from="1641379473172" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1641375848445</created>
@@ -169,20 +106,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="800000" />
+    <option name="totallyTimeSpent" value="804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" sideWeight="0.50183153" side_tool="true" visible="true" weight="0.24947146" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4981685" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" sideWeight="0.50183153" side_tool="true" weight="0.24947146" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32923833" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32923833" />
+      <window_info id="Favorites" order="2" sideWeight="0.50183153" side_tool="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -190,6 +121,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32923833" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32923833" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
