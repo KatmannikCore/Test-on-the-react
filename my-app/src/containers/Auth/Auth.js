@@ -59,7 +59,7 @@ class Auth extends Component {
         event.preventDefault()
     };
 
-    validateControl(value, validation) {
+    static validateControl(value, validation) {
         if (!validation) {
             return true
         }
@@ -86,7 +86,7 @@ class Auth extends Component {
 
         control.value = event.target.value;
         control.touched = true;
-        control.valid = this.validateControl(control.value, control.validation);
+        control.valid = Auth.validateControl(control.value, control.validation);
 
         formControls[controlName] = control;
 
